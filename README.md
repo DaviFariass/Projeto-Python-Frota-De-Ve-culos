@@ -46,7 +46,7 @@ O script foi desenvolvido para rodar no ambiente do **Google Colab** e utiliza a
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 Como este projeto utiliza a biblioteca `google.colab` para montar o Google Drive e salvar os arquivos `.json` diretamente na nuvem, o ideal é rodá-lo dentro do próprio Colab.
 
