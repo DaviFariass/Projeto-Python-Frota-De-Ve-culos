@@ -10,6 +10,15 @@ Este projeto é um script em **Python** desenvolvido para automatizar a extraç�
 
 ---
 
+## 📊 Dashboard Interativo
+
+O resultado deste processamento de dados pode ser visualizado em tempo real através do dashboard que desenvolvi no Power BI:
+
+👉 [Acesse o Dashboard Interativo Aqui](https://app.powerbi.com/view?r=eyJrIjoiNWVhOWEwNzMtZTQwZS00MTZkLTgyMDQtYWE1MGQ2NjVjM2Q5IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+
+---
+---
+
 ## ⚠️ O Desafio vs. 💡 A Solução
 
 **O Desafio:**
